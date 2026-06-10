@@ -25,7 +25,7 @@ Este projeto foi desenvolvido durante os estudos de Java e Spring Boot, com foco
 
 ## Tecnologias utilizadas
 
-* Java 21
+* Java 17
 * Spring Boot
 * Maven
 * Jackson
